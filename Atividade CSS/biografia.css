@@ -18,10 +18,10 @@ body {
     color: #2980b9;
   }
   
-  p1{
+  p, ol {
     margin: 10px 0;
     padding: 0 20px;
-    text-align: center;
+    text-align: justify;
     color: #333;
   }
   
